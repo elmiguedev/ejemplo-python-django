@@ -14,6 +14,5 @@
 
 - carpeta modelos
 - carpeta controllers
-- carpeta serializers
 - carpeta repositories
 

@@ -4,3 +4,6 @@ class Dog:
     self.id = id
     self.name = name
     self.age = age
+
+  def serialize(self):
+    return self.__dict__
